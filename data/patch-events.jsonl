@@ -1,0 +1,2 @@
+{"time": "2026-09-03T09:00:56Z", "hero": "ana", "name": "Ana", "role": "SUPPORT", "region": "us", "mode": "competitive", "kind": "change", "metric": "winrate", "before": 47.1, "after": 48.3, "delta": 1.2}
+{"time": "2026-09-03T09:00:56Z", "hero": "mercy", "name": "Mercy", "role": "SUPPORT", "region": "eu", "mode": "quickplay", "kind": "change", "metric": "pickrate", "before": 5.0, "after": 5.8, "delta": 0.8}

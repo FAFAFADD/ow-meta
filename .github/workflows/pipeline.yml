@@ -1,0 +1,59 @@
+name: ow-meta-pipeline
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ow-meta-pipeline
+  cancel-in-progress: true
+
+jobs:
+  snapshot-build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Snapshot and build
+        run: python scripts/snapshot.py && python scripts/build.py
+
+      - name: Commit data and dist changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data dist
+          if git diff --cached --quiet; then
+            echo "No data or dist changes."
+          else
+            git commit -m "chore: archive OW meta rates snapshot"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
