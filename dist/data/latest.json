@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-09-08T15:52:55.668781Z",
+  "capturedAt": "2026-09-08T19:13:05.655385Z",
   "us": {
     "competitive": [
       {
@@ -52,7 +52,7 @@
         "role": "DAMAGE",
         "subrole": "recon",
         "winrate": 48.4,
-        "pickrate": 4.7,
+        "pickrate": 4.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d4f2d5b0c2b7e82d61353186c5f23152ccba9d3569b50839aa580dca3e9114ba.png",
         "color": "89c8ffff"
@@ -106,7 +106,7 @@
         "name": "Junkrat",
         "role": "DAMAGE",
         "subrole": "specialist",
-        "winrate": 52.4,
+        "winrate": 52.3,
         "pickrate": 11.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7660b9fc6f25f30858fdd8797fe0d52b2306f1e78fef99843f58a274e69af046.png",
@@ -151,7 +151,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 48.7,
-        "pickrate": 12.3,
+        "pickrate": 12.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/070481cf871590a2b45a51d1335f9fe3d65eb4e4d361ecdd998b34fae2ed65d5.png",
         "color": "f6f6f6ff"
@@ -161,7 +161,7 @@
         "name": "Sierra",
         "role": "DAMAGE",
         "subrole": "recon",
-        "winrate": 49.6,
+        "winrate": 49.7,
         "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4bfd3d8b95844231115cb5bf4db03344c71bc3e865189c52403b2dc51438e63a.png",
@@ -349,7 +349,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.4,
-        "pickrate": 12.8,
+        "pickrate": 12.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3376515cebed0904012e67e956f6d1b9c12e03da642845eeaf787b7e4c7b339d.png",
         "color": "e1a5baff"
@@ -426,7 +426,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 54.9,
-        "pickrate": 23.7,
+        "pickrate": 23.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -470,7 +470,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 49.6,
-        "pickrate": 2.3,
+        "pickrate": 2.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ca48b96dbae6ea7f58ce8a5e73513c8c62b1685bdbf258020fb78bb21a008b5f.png",
         "color": "985ec0ff"
@@ -481,7 +481,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 53.3,
-        "pickrate": 3.8,
+        "pickrate": 3.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/06eeecb359f311f43a8f5121d4f9f3a93c565d70b30e94ef543c05596c9a39dc.png",
         "color": "579fcfff"
@@ -503,7 +503,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 46.1,
-        "pickrate": 8.2,
+        "pickrate": 8.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a73958a28551f5254f3ab3f97c5f5f8d698a95c0b6a515d1a2b1caac169205a6.png",
         "color": "106f04ff"
@@ -514,7 +514,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 49.4,
-        "pickrate": 7.2,
+        "pickrate": 7.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ddef7c9fb8ce4256e8508196b486f81950efe7aaa6cf27fec4668beb4cd15774.png",
         "color": "7d55c7ff"
@@ -579,8 +579,8 @@
         "name": "Zarya",
         "role": "TANK",
         "subrole": "bruiser",
-        "winrate": 48,
-        "pickrate": 3,
+        "winrate": 48.1,
+        "pickrate": 3.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9b6f63cc66ddf9d5e0862173c733cc0d2e574c5c89357798d91b93b2f95a7080.png",
         "color": "f65ea6ff"
@@ -637,7 +637,7 @@
         "role": "DAMAGE",
         "subrole": "recon",
         "winrate": 48.4,
-        "pickrate": 4.7,
+        "pickrate": 4.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d4f2d5b0c2b7e82d61353186c5f23152ccba9d3569b50839aa580dca3e9114ba.png",
         "color": "89c8ffff"
@@ -691,7 +691,7 @@
         "name": "Junkrat",
         "role": "DAMAGE",
         "subrole": "specialist",
-        "winrate": 52.4,
+        "winrate": 52.3,
         "pickrate": 11.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7660b9fc6f25f30858fdd8797fe0d52b2306f1e78fef99843f58a274e69af046.png",
@@ -736,7 +736,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 48.7,
-        "pickrate": 12.3,
+        "pickrate": 12.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/070481cf871590a2b45a51d1335f9fe3d65eb4e4d361ecdd998b34fae2ed65d5.png",
         "color": "f6f6f6ff"
@@ -746,7 +746,7 @@
         "name": "Sierra",
         "role": "DAMAGE",
         "subrole": "recon",
-        "winrate": 49.6,
+        "winrate": 49.7,
         "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4bfd3d8b95844231115cb5bf4db03344c71bc3e865189c52403b2dc51438e63a.png",
@@ -934,7 +934,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.4,
-        "pickrate": 12.8,
+        "pickrate": 12.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3376515cebed0904012e67e956f6d1b9c12e03da642845eeaf787b7e4c7b339d.png",
         "color": "e1a5baff"
@@ -1011,7 +1011,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 54.9,
-        "pickrate": 23.7,
+        "pickrate": 23.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -1055,7 +1055,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 49.6,
-        "pickrate": 2.3,
+        "pickrate": 2.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ca48b96dbae6ea7f58ce8a5e73513c8c62b1685bdbf258020fb78bb21a008b5f.png",
         "color": "985ec0ff"
@@ -1066,7 +1066,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 53.3,
-        "pickrate": 3.8,
+        "pickrate": 3.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/06eeecb359f311f43a8f5121d4f9f3a93c565d70b30e94ef543c05596c9a39dc.png",
         "color": "579fcfff"
@@ -1088,7 +1088,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 46.1,
-        "pickrate": 8.2,
+        "pickrate": 8.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a73958a28551f5254f3ab3f97c5f5f8d698a95c0b6a515d1a2b1caac169205a6.png",
         "color": "106f04ff"
@@ -1099,7 +1099,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 49.4,
-        "pickrate": 7.2,
+        "pickrate": 7.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ddef7c9fb8ce4256e8508196b486f81950efe7aaa6cf27fec4668beb4cd15774.png",
         "color": "7d55c7ff"
@@ -1164,8 +1164,8 @@
         "name": "Zarya",
         "role": "TANK",
         "subrole": "bruiser",
-        "winrate": 48,
-        "pickrate": 3,
+        "winrate": 48.1,
+        "pickrate": 3.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9b6f63cc66ddf9d5e0862173c733cc0d2e574c5c89357798d91b93b2f95a7080.png",
         "color": "f65ea6ff"
@@ -1224,7 +1224,7 @@
         "role": "DAMAGE",
         "subrole": "recon",
         "winrate": 48.4,
-        "pickrate": 4.7,
+        "pickrate": 4.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d4f2d5b0c2b7e82d61353186c5f23152ccba9d3569b50839aa580dca3e9114ba.png",
         "color": "89c8ffff"
@@ -1278,7 +1278,7 @@
         "name": "Junkrat",
         "role": "DAMAGE",
         "subrole": "specialist",
-        "winrate": 52.4,
+        "winrate": 52.3,
         "pickrate": 11.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7660b9fc6f25f30858fdd8797fe0d52b2306f1e78fef99843f58a274e69af046.png",
@@ -1323,7 +1323,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 48.7,
-        "pickrate": 12.3,
+        "pickrate": 12.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/070481cf871590a2b45a51d1335f9fe3d65eb4e4d361ecdd998b34fae2ed65d5.png",
         "color": "f6f6f6ff"
@@ -1333,7 +1333,7 @@
         "name": "Sierra",
         "role": "DAMAGE",
         "subrole": "recon",
-        "winrate": 49.6,
+        "winrate": 49.7,
         "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4bfd3d8b95844231115cb5bf4db03344c71bc3e865189c52403b2dc51438e63a.png",
@@ -1521,7 +1521,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.4,
-        "pickrate": 12.8,
+        "pickrate": 12.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3376515cebed0904012e67e956f6d1b9c12e03da642845eeaf787b7e4c7b339d.png",
         "color": "e1a5baff"
@@ -1598,7 +1598,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 54.9,
-        "pickrate": 23.7,
+        "pickrate": 23.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -1642,7 +1642,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 49.6,
-        "pickrate": 2.3,
+        "pickrate": 2.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ca48b96dbae6ea7f58ce8a5e73513c8c62b1685bdbf258020fb78bb21a008b5f.png",
         "color": "985ec0ff"
@@ -1653,7 +1653,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 53.3,
-        "pickrate": 3.8,
+        "pickrate": 3.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/06eeecb359f311f43a8f5121d4f9f3a93c565d70b30e94ef543c05596c9a39dc.png",
         "color": "579fcfff"
@@ -1675,7 +1675,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 46.1,
-        "pickrate": 8.2,
+        "pickrate": 8.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a73958a28551f5254f3ab3f97c5f5f8d698a95c0b6a515d1a2b1caac169205a6.png",
         "color": "106f04ff"
@@ -1686,7 +1686,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 49.4,
-        "pickrate": 7.2,
+        "pickrate": 7.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ddef7c9fb8ce4256e8508196b486f81950efe7aaa6cf27fec4668beb4cd15774.png",
         "color": "7d55c7ff"
@@ -1751,8 +1751,8 @@
         "name": "Zarya",
         "role": "TANK",
         "subrole": "bruiser",
-        "winrate": 48,
-        "pickrate": 3,
+        "winrate": 48.1,
+        "pickrate": 3.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9b6f63cc66ddf9d5e0862173c733cc0d2e574c5c89357798d91b93b2f95a7080.png",
         "color": "f65ea6ff"
@@ -1809,7 +1809,7 @@
         "role": "DAMAGE",
         "subrole": "recon",
         "winrate": 48.4,
-        "pickrate": 4.7,
+        "pickrate": 4.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d4f2d5b0c2b7e82d61353186c5f23152ccba9d3569b50839aa580dca3e9114ba.png",
         "color": "89c8ffff"
@@ -1863,7 +1863,7 @@
         "name": "Junkrat",
         "role": "DAMAGE",
         "subrole": "specialist",
-        "winrate": 52.4,
+        "winrate": 52.3,
         "pickrate": 11.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7660b9fc6f25f30858fdd8797fe0d52b2306f1e78fef99843f58a274e69af046.png",
@@ -1908,7 +1908,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 48.7,
-        "pickrate": 12.3,
+        "pickrate": 12.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/070481cf871590a2b45a51d1335f9fe3d65eb4e4d361ecdd998b34fae2ed65d5.png",
         "color": "f6f6f6ff"
@@ -1918,7 +1918,7 @@
         "name": "Sierra",
         "role": "DAMAGE",
         "subrole": "recon",
-        "winrate": 49.6,
+        "winrate": 49.7,
         "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4bfd3d8b95844231115cb5bf4db03344c71bc3e865189c52403b2dc51438e63a.png",
@@ -2106,7 +2106,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.4,
-        "pickrate": 12.8,
+        "pickrate": 12.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3376515cebed0904012e67e956f6d1b9c12e03da642845eeaf787b7e4c7b339d.png",
         "color": "e1a5baff"
@@ -2183,7 +2183,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 54.9,
-        "pickrate": 23.7,
+        "pickrate": 23.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -2227,7 +2227,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 49.6,
-        "pickrate": 2.3,
+        "pickrate": 2.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ca48b96dbae6ea7f58ce8a5e73513c8c62b1685bdbf258020fb78bb21a008b5f.png",
         "color": "985ec0ff"
@@ -2238,7 +2238,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 53.3,
-        "pickrate": 3.8,
+        "pickrate": 3.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/06eeecb359f311f43a8f5121d4f9f3a93c565d70b30e94ef543c05596c9a39dc.png",
         "color": "579fcfff"
@@ -2260,7 +2260,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 46.1,
-        "pickrate": 8.2,
+        "pickrate": 8.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a73958a28551f5254f3ab3f97c5f5f8d698a95c0b6a515d1a2b1caac169205a6.png",
         "color": "106f04ff"
@@ -2271,7 +2271,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 49.4,
-        "pickrate": 7.2,
+        "pickrate": 7.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ddef7c9fb8ce4256e8508196b486f81950efe7aaa6cf27fec4668beb4cd15774.png",
         "color": "7d55c7ff"
@@ -2336,8 +2336,8 @@
         "name": "Zarya",
         "role": "TANK",
         "subrole": "bruiser",
-        "winrate": 48,
-        "pickrate": 3,
+        "winrate": 48.1,
+        "pickrate": 3.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9b6f63cc66ddf9d5e0862173c733cc0d2e574c5c89357798d91b93b2f95a7080.png",
         "color": "f65ea6ff"
@@ -2396,7 +2396,7 @@
         "role": "DAMAGE",
         "subrole": "recon",
         "winrate": 48.4,
-        "pickrate": 4.7,
+        "pickrate": 4.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d4f2d5b0c2b7e82d61353186c5f23152ccba9d3569b50839aa580dca3e9114ba.png",
         "color": "89c8ffff"
@@ -2450,7 +2450,7 @@
         "name": "Junkrat",
         "role": "DAMAGE",
         "subrole": "specialist",
-        "winrate": 52.4,
+        "winrate": 52.3,
         "pickrate": 11.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7660b9fc6f25f30858fdd8797fe0d52b2306f1e78fef99843f58a274e69af046.png",
@@ -2495,7 +2495,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 48.7,
-        "pickrate": 12.3,
+        "pickrate": 12.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/070481cf871590a2b45a51d1335f9fe3d65eb4e4d361ecdd998b34fae2ed65d5.png",
         "color": "f6f6f6ff"
@@ -2505,7 +2505,7 @@
         "name": "Sierra",
         "role": "DAMAGE",
         "subrole": "recon",
-        "winrate": 49.6,
+        "winrate": 49.7,
         "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4bfd3d8b95844231115cb5bf4db03344c71bc3e865189c52403b2dc51438e63a.png",
@@ -2693,7 +2693,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.4,
-        "pickrate": 12.8,
+        "pickrate": 12.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3376515cebed0904012e67e956f6d1b9c12e03da642845eeaf787b7e4c7b339d.png",
         "color": "e1a5baff"
@@ -2770,7 +2770,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 54.9,
-        "pickrate": 23.7,
+        "pickrate": 23.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -2814,7 +2814,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 49.6,
-        "pickrate": 2.3,
+        "pickrate": 2.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ca48b96dbae6ea7f58ce8a5e73513c8c62b1685bdbf258020fb78bb21a008b5f.png",
         "color": "985ec0ff"
@@ -2825,7 +2825,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 53.3,
-        "pickrate": 3.8,
+        "pickrate": 3.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/06eeecb359f311f43a8f5121d4f9f3a93c565d70b30e94ef543c05596c9a39dc.png",
         "color": "579fcfff"
@@ -2847,7 +2847,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 46.1,
-        "pickrate": 8.2,
+        "pickrate": 8.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a73958a28551f5254f3ab3f97c5f5f8d698a95c0b6a515d1a2b1caac169205a6.png",
         "color": "106f04ff"
@@ -2858,7 +2858,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 49.4,
-        "pickrate": 7.2,
+        "pickrate": 7.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ddef7c9fb8ce4256e8508196b486f81950efe7aaa6cf27fec4668beb4cd15774.png",
         "color": "7d55c7ff"
@@ -2923,8 +2923,8 @@
         "name": "Zarya",
         "role": "TANK",
         "subrole": "bruiser",
-        "winrate": 48,
-        "pickrate": 3,
+        "winrate": 48.1,
+        "pickrate": 3.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9b6f63cc66ddf9d5e0862173c733cc0d2e574c5c89357798d91b93b2f95a7080.png",
         "color": "f65ea6ff"
@@ -2981,7 +2981,7 @@
         "role": "DAMAGE",
         "subrole": "recon",
         "winrate": 48.4,
-        "pickrate": 4.7,
+        "pickrate": 4.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/d4f2d5b0c2b7e82d61353186c5f23152ccba9d3569b50839aa580dca3e9114ba.png",
         "color": "89c8ffff"
@@ -3035,7 +3035,7 @@
         "name": "Junkrat",
         "role": "DAMAGE",
         "subrole": "specialist",
-        "winrate": 52.4,
+        "winrate": 52.3,
         "pickrate": 11.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7660b9fc6f25f30858fdd8797fe0d52b2306f1e78fef99843f58a274e69af046.png",
@@ -3080,7 +3080,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 48.7,
-        "pickrate": 12.3,
+        "pickrate": 12.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/070481cf871590a2b45a51d1335f9fe3d65eb4e4d361ecdd998b34fae2ed65d5.png",
         "color": "f6f6f6ff"
@@ -3090,7 +3090,7 @@
         "name": "Sierra",
         "role": "DAMAGE",
         "subrole": "recon",
-        "winrate": 49.6,
+        "winrate": 49.7,
         "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4bfd3d8b95844231115cb5bf4db03344c71bc3e865189c52403b2dc51438e63a.png",
@@ -3278,7 +3278,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.4,
-        "pickrate": 12.8,
+        "pickrate": 12.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3376515cebed0904012e67e956f6d1b9c12e03da642845eeaf787b7e4c7b339d.png",
         "color": "e1a5baff"
@@ -3355,7 +3355,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 54.9,
-        "pickrate": 23.7,
+        "pickrate": 23.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -3399,7 +3399,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 49.6,
-        "pickrate": 2.3,
+        "pickrate": 2.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ca48b96dbae6ea7f58ce8a5e73513c8c62b1685bdbf258020fb78bb21a008b5f.png",
         "color": "985ec0ff"
@@ -3410,7 +3410,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 53.3,
-        "pickrate": 3.8,
+        "pickrate": 3.9,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/06eeecb359f311f43a8f5121d4f9f3a93c565d70b30e94ef543c05596c9a39dc.png",
         "color": "579fcfff"
@@ -3432,7 +3432,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 46.1,
-        "pickrate": 8.2,
+        "pickrate": 8.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a73958a28551f5254f3ab3f97c5f5f8d698a95c0b6a515d1a2b1caac169205a6.png",
         "color": "106f04ff"
@@ -3443,7 +3443,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 49.4,
-        "pickrate": 7.2,
+        "pickrate": 7.3,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ddef7c9fb8ce4256e8508196b486f81950efe7aaa6cf27fec4668beb4cd15774.png",
         "color": "7d55c7ff"
@@ -3508,8 +3508,8 @@
         "name": "Zarya",
         "role": "TANK",
         "subrole": "bruiser",
-        "winrate": 48,
-        "pickrate": 3,
+        "winrate": 48.1,
+        "pickrate": 3.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/9b6f63cc66ddf9d5e0862173c733cc0d2e574c5c89357798d91b93b2f95a7080.png",
         "color": "f65ea6ff"
