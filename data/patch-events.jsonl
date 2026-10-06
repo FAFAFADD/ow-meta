@@ -7308,3 +7308,9 @@
 {"time": "2026-10-06T14:41:01Z", "hero": "winston", "name": "Winston", "role": "TANK", "region": "asia", "mode": "quickplay", "kind": "change", "metric": "pickrate", "before": 4.0, "after": 4.1, "delta": 0.1}
 {"time": "2026-10-06T14:41:01Z", "hero": "wuyang", "name": "Wuyang", "role": "SUPPORT", "region": "asia", "mode": "quickplay", "kind": "change", "metric": "pickrate", "before": 6.5, "after": 6.6, "delta": 0.1}
 {"time": "2026-10-06T14:41:01Z", "hero": "zarya", "name": "Zarya", "role": "TANK", "region": "asia", "mode": "quickplay", "kind": "change", "metric": "pickrate", "before": 3.2, "after": 3.3, "delta": 0.1}
+{"time": "2026-10-06T20:44:54Z", "hero": "doctrine", "name": "Doctrine", "role": "SUPPORT", "region": "us", "mode": "competitive", "kind": "added", "metric": null, "before": null, "after": null}
+{"time": "2026-10-06T20:44:54Z", "hero": "doctrine", "name": "Doctrine", "role": "SUPPORT", "region": "us", "mode": "quickplay", "kind": "added", "metric": null, "before": null, "after": null}
+{"time": "2026-10-06T20:44:54Z", "hero": "doctrine", "name": "Doctrine", "role": "SUPPORT", "region": "eu", "mode": "competitive", "kind": "added", "metric": null, "before": null, "after": null}
+{"time": "2026-10-06T20:44:54Z", "hero": "doctrine", "name": "Doctrine", "role": "SUPPORT", "region": "eu", "mode": "quickplay", "kind": "added", "metric": null, "before": null, "after": null}
+{"time": "2026-10-06T20:44:54Z", "hero": "doctrine", "name": "Doctrine", "role": "SUPPORT", "region": "asia", "mode": "competitive", "kind": "added", "metric": null, "before": null, "after": null}
+{"time": "2026-10-06T20:44:54Z", "hero": "doctrine", "name": "Doctrine", "role": "SUPPORT", "region": "asia", "mode": "quickplay", "kind": "added", "metric": null, "before": null, "after": null}

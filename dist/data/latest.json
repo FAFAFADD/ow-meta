@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-10-06T14:41:01.371227Z",
+  "capturedAt": "2026-10-06T20:44:54.523177Z",
   "us": {
     "competitive": [
       {
@@ -190,17 +190,6 @@
         "color": "445275ff"
       },
       {
-        "id": "sombra",
-        "name": "Sombra",
-        "role": "DAMAGE",
-        "subrole": "recon",
-        "winrate": 48.8,
-        "pickrate": 6,
-        "banrate": 0,
-        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
-        "color": "5128a9ff"
-      },
-      {
         "id": "symmetra",
         "name": "Symmetra",
         "role": "DAMAGE",
@@ -300,6 +289,17 @@
         "color": "72332aff"
       },
       {
+        "id": "doctrine",
+        "name": "Doctrine",
+        "role": "SUPPORT",
+        "subrole": "survivor",
+        "winrate": 57.3,
+        "pickrate": 10.9,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
+        "color": "991344ff"
+      },
+      {
         "id": "illari",
         "name": "Illari",
         "role": "SUPPORT",
@@ -397,6 +397,17 @@
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
+      },
+      {
+        "id": "sombra",
+        "name": "Sombra",
+        "role": "SUPPORT",
+        "subrole": "tactician",
+        "winrate": 48.8,
+        "pickrate": 6,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
+        "color": "5128a9ff"
       },
       {
         "id": "wuyang",
@@ -775,17 +786,6 @@
         "color": "445275ff"
       },
       {
-        "id": "sombra",
-        "name": "Sombra",
-        "role": "DAMAGE",
-        "subrole": "recon",
-        "winrate": 48.8,
-        "pickrate": 6,
-        "banrate": 0,
-        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
-        "color": "5128a9ff"
-      },
-      {
         "id": "symmetra",
         "name": "Symmetra",
         "role": "DAMAGE",
@@ -885,6 +885,17 @@
         "color": "72332aff"
       },
       {
+        "id": "doctrine",
+        "name": "Doctrine",
+        "role": "SUPPORT",
+        "subrole": "survivor",
+        "winrate": 57.3,
+        "pickrate": 10.9,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
+        "color": "991344ff"
+      },
+      {
         "id": "illari",
         "name": "Illari",
         "role": "SUPPORT",
@@ -982,6 +993,17 @@
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
+      },
+      {
+        "id": "sombra",
+        "name": "Sombra",
+        "role": "SUPPORT",
+        "subrole": "tactician",
+        "winrate": 48.8,
+        "pickrate": 6,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
+        "color": "5128a9ff"
       },
       {
         "id": "wuyang",
@@ -1362,17 +1384,6 @@
         "color": "445275ff"
       },
       {
-        "id": "sombra",
-        "name": "Sombra",
-        "role": "DAMAGE",
-        "subrole": "recon",
-        "winrate": 48.8,
-        "pickrate": 6,
-        "banrate": 0,
-        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
-        "color": "5128a9ff"
-      },
-      {
         "id": "symmetra",
         "name": "Symmetra",
         "role": "DAMAGE",
@@ -1472,6 +1483,17 @@
         "color": "72332aff"
       },
       {
+        "id": "doctrine",
+        "name": "Doctrine",
+        "role": "SUPPORT",
+        "subrole": "survivor",
+        "winrate": 57.3,
+        "pickrate": 10.9,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
+        "color": "991344ff"
+      },
+      {
         "id": "illari",
         "name": "Illari",
         "role": "SUPPORT",
@@ -1569,6 +1591,17 @@
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
+      },
+      {
+        "id": "sombra",
+        "name": "Sombra",
+        "role": "SUPPORT",
+        "subrole": "tactician",
+        "winrate": 48.8,
+        "pickrate": 6,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
+        "color": "5128a9ff"
       },
       {
         "id": "wuyang",
@@ -1947,17 +1980,6 @@
         "color": "445275ff"
       },
       {
-        "id": "sombra",
-        "name": "Sombra",
-        "role": "DAMAGE",
-        "subrole": "recon",
-        "winrate": 48.8,
-        "pickrate": 6,
-        "banrate": 0,
-        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
-        "color": "5128a9ff"
-      },
-      {
         "id": "symmetra",
         "name": "Symmetra",
         "role": "DAMAGE",
@@ -2057,6 +2079,17 @@
         "color": "72332aff"
       },
       {
+        "id": "doctrine",
+        "name": "Doctrine",
+        "role": "SUPPORT",
+        "subrole": "survivor",
+        "winrate": 57.3,
+        "pickrate": 10.9,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
+        "color": "991344ff"
+      },
+      {
         "id": "illari",
         "name": "Illari",
         "role": "SUPPORT",
@@ -2154,6 +2187,17 @@
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
+      },
+      {
+        "id": "sombra",
+        "name": "Sombra",
+        "role": "SUPPORT",
+        "subrole": "tactician",
+        "winrate": 48.8,
+        "pickrate": 6,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
+        "color": "5128a9ff"
       },
       {
         "id": "wuyang",
@@ -2534,17 +2578,6 @@
         "color": "445275ff"
       },
       {
-        "id": "sombra",
-        "name": "Sombra",
-        "role": "DAMAGE",
-        "subrole": "recon",
-        "winrate": 48.8,
-        "pickrate": 6,
-        "banrate": 0,
-        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
-        "color": "5128a9ff"
-      },
-      {
         "id": "symmetra",
         "name": "Symmetra",
         "role": "DAMAGE",
@@ -2644,6 +2677,17 @@
         "color": "72332aff"
       },
       {
+        "id": "doctrine",
+        "name": "Doctrine",
+        "role": "SUPPORT",
+        "subrole": "survivor",
+        "winrate": 57.3,
+        "pickrate": 10.9,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
+        "color": "991344ff"
+      },
+      {
         "id": "illari",
         "name": "Illari",
         "role": "SUPPORT",
@@ -2741,6 +2785,17 @@
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
+      },
+      {
+        "id": "sombra",
+        "name": "Sombra",
+        "role": "SUPPORT",
+        "subrole": "tactician",
+        "winrate": 48.8,
+        "pickrate": 6,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
+        "color": "5128a9ff"
       },
       {
         "id": "wuyang",
@@ -3119,17 +3174,6 @@
         "color": "445275ff"
       },
       {
-        "id": "sombra",
-        "name": "Sombra",
-        "role": "DAMAGE",
-        "subrole": "recon",
-        "winrate": 48.8,
-        "pickrate": 6,
-        "banrate": 0,
-        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
-        "color": "5128a9ff"
-      },
-      {
         "id": "symmetra",
         "name": "Symmetra",
         "role": "DAMAGE",
@@ -3229,6 +3273,17 @@
         "color": "72332aff"
       },
       {
+        "id": "doctrine",
+        "name": "Doctrine",
+        "role": "SUPPORT",
+        "subrole": "survivor",
+        "winrate": 57.3,
+        "pickrate": 10.9,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
+        "color": "991344ff"
+      },
+      {
         "id": "illari",
         "name": "Illari",
         "role": "SUPPORT",
@@ -3326,6 +3381,17 @@
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
+      },
+      {
+        "id": "sombra",
+        "name": "Sombra",
+        "role": "SUPPORT",
+        "subrole": "tactician",
+        "winrate": 48.8,
+        "pickrate": 6,
+        "banrate": 0,
+        "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
+        "color": "5128a9ff"
       },
       {
         "id": "wuyang",
