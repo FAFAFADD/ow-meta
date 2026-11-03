@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-03T11:33:30.462050Z",
+  "capturedAt": "2026-11-03T18:57:48.682699Z",
   "us": {
     "competitive": [
       {
@@ -140,7 +140,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 50.6,
-        "pickrate": 7.3,
+        "pickrate": 7.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/dc6ff07ac790c00dc95a40882449617bb6e0e38906b353a630cffe0c815270a9.png",
         "color": "5e001aff"
@@ -216,7 +216,7 @@
         "name": "Tracer",
         "role": "DAMAGE",
         "subrole": "flanker",
-        "winrate": 49.6,
+        "winrate": 49.5,
         "pickrate": 6.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4504f6f15cb3feaa92ecd38e01dcf751cb5abdac2e0bb52d0555727e53277502.png",
@@ -250,7 +250,7 @@
         "role": "DAMAGE",
         "subrole": "sharpshooter",
         "winrate": 45.9,
-        "pickrate": 9.6,
+        "pickrate": 9.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6e4702b45f196aaf51555cf57327322721f45458b17f5f0643ed008a88378259.png",
         "color": "8b3f8fff"
@@ -260,8 +260,8 @@
         "name": "Ana",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 46.7,
-        "pickrate": 19.1,
+        "winrate": 46.8,
+        "pickrate": 19.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/985b06beae46b7ba3ca87d1512d0fc62ca7f206ceca58ef16fc44d43a1cc84ed.png",
         "color": "48699eff"
@@ -294,7 +294,7 @@
         "role": "SUPPORT",
         "subrole": "survivor",
         "winrate": 52.1,
-        "pickrate": 28,
+        "pickrate": 27.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
         "color": "991344ff"
@@ -315,8 +315,8 @@
         "name": "Jetpack Cat",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 48.9,
-        "pickrate": 8.4,
+        "winrate": 49,
+        "pickrate": 8.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/03a184cd0de27091e0099ac22635ad9615a8f6997881a5c25cc5f2444764f729.png",
         "color": "c9cdd1ff"
@@ -338,7 +338,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 45.6,
-        "pickrate": 13.6,
+        "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/408603fe037e8576078eaac5eab2fb251489ced4003b11f5f522776d43d0b83d.png",
         "color": "d04656ff"
@@ -371,7 +371,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.2,
-        "pickrate": 18,
+        "pickrate": 18.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3bfb8bd8ec827e53d870f1238ab73d8aa1f5dbfbcfaaf7f96ffcd35b5c6102ab.png",
         "color": "faf2adff"
@@ -393,7 +393,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 50.9,
-        "pickrate": 18.4,
+        "pickrate": 18.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
@@ -403,8 +403,8 @@
         "name": "Sombra",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 52.5,
-        "pickrate": 26.8,
+        "winrate": 52.4,
+        "pickrate": 26.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
         "color": "5128a9ff"
@@ -426,7 +426,7 @@
         "role": "SUPPORT",
         "subrole": "tactician",
         "winrate": 54.4,
-        "pickrate": 8.3,
+        "pickrate": 8.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7d1546b1541a8afc39353f9337a408d6275a141b0432b7e560ef61579996b0fc.png",
         "color": "fcee5aff"
@@ -437,7 +437,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 51.7,
-        "pickrate": 6.8,
+        "pickrate": 6.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -470,7 +470,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 52,
-        "pickrate": 9,
+        "pickrate": 9.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ff5c54f43ad253c7faeda9c4ed31d42582ea6b19205d197866f3dd0c0aa14c16.png",
         "color": "661e0fff"
@@ -547,7 +547,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 47.7,
-        "pickrate": 11.9,
+        "pickrate": 11.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/89ddf07e4b619ed96169042e296a1b8856d102746f35add88284b44a9a5a6a03.png",
         "color": "ae6f1cff"
@@ -568,7 +568,7 @@
         "name": "Winston",
         "role": "TANK",
         "subrole": "initiator",
-        "winrate": 54.1,
+        "winrate": 54,
         "pickrate": 4.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/46a10db3aa908c590ddc4e7606376a88143d1f1306ecfbea043263040f9529a5.png",
@@ -736,7 +736,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 50.6,
-        "pickrate": 7.3,
+        "pickrate": 7.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/dc6ff07ac790c00dc95a40882449617bb6e0e38906b353a630cffe0c815270a9.png",
         "color": "5e001aff"
@@ -812,7 +812,7 @@
         "name": "Tracer",
         "role": "DAMAGE",
         "subrole": "flanker",
-        "winrate": 49.6,
+        "winrate": 49.5,
         "pickrate": 6.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4504f6f15cb3feaa92ecd38e01dcf751cb5abdac2e0bb52d0555727e53277502.png",
@@ -846,7 +846,7 @@
         "role": "DAMAGE",
         "subrole": "sharpshooter",
         "winrate": 45.9,
-        "pickrate": 9.6,
+        "pickrate": 9.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6e4702b45f196aaf51555cf57327322721f45458b17f5f0643ed008a88378259.png",
         "color": "8b3f8fff"
@@ -856,8 +856,8 @@
         "name": "Ana",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 46.7,
-        "pickrate": 19.1,
+        "winrate": 46.8,
+        "pickrate": 19.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/985b06beae46b7ba3ca87d1512d0fc62ca7f206ceca58ef16fc44d43a1cc84ed.png",
         "color": "48699eff"
@@ -890,7 +890,7 @@
         "role": "SUPPORT",
         "subrole": "survivor",
         "winrate": 52.1,
-        "pickrate": 28,
+        "pickrate": 27.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
         "color": "991344ff"
@@ -911,8 +911,8 @@
         "name": "Jetpack Cat",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 48.9,
-        "pickrate": 8.4,
+        "winrate": 49,
+        "pickrate": 8.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/03a184cd0de27091e0099ac22635ad9615a8f6997881a5c25cc5f2444764f729.png",
         "color": "c9cdd1ff"
@@ -934,7 +934,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 45.6,
-        "pickrate": 13.6,
+        "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/408603fe037e8576078eaac5eab2fb251489ced4003b11f5f522776d43d0b83d.png",
         "color": "d04656ff"
@@ -967,7 +967,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.2,
-        "pickrate": 18,
+        "pickrate": 18.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3bfb8bd8ec827e53d870f1238ab73d8aa1f5dbfbcfaaf7f96ffcd35b5c6102ab.png",
         "color": "faf2adff"
@@ -989,7 +989,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 50.9,
-        "pickrate": 18.4,
+        "pickrate": 18.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
@@ -999,8 +999,8 @@
         "name": "Sombra",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 52.5,
-        "pickrate": 26.8,
+        "winrate": 52.4,
+        "pickrate": 26.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
         "color": "5128a9ff"
@@ -1022,7 +1022,7 @@
         "role": "SUPPORT",
         "subrole": "tactician",
         "winrate": 54.4,
-        "pickrate": 8.3,
+        "pickrate": 8.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7d1546b1541a8afc39353f9337a408d6275a141b0432b7e560ef61579996b0fc.png",
         "color": "fcee5aff"
@@ -1033,7 +1033,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 51.7,
-        "pickrate": 6.8,
+        "pickrate": 6.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -1066,7 +1066,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 52,
-        "pickrate": 9,
+        "pickrate": 9.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ff5c54f43ad253c7faeda9c4ed31d42582ea6b19205d197866f3dd0c0aa14c16.png",
         "color": "661e0fff"
@@ -1143,7 +1143,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 47.7,
-        "pickrate": 11.9,
+        "pickrate": 11.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/89ddf07e4b619ed96169042e296a1b8856d102746f35add88284b44a9a5a6a03.png",
         "color": "ae6f1cff"
@@ -1164,7 +1164,7 @@
         "name": "Winston",
         "role": "TANK",
         "subrole": "initiator",
-        "winrate": 54.1,
+        "winrate": 54,
         "pickrate": 4.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/46a10db3aa908c590ddc4e7606376a88143d1f1306ecfbea043263040f9529a5.png",
@@ -1334,7 +1334,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 50.6,
-        "pickrate": 7.3,
+        "pickrate": 7.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/dc6ff07ac790c00dc95a40882449617bb6e0e38906b353a630cffe0c815270a9.png",
         "color": "5e001aff"
@@ -1410,7 +1410,7 @@
         "name": "Tracer",
         "role": "DAMAGE",
         "subrole": "flanker",
-        "winrate": 49.6,
+        "winrate": 49.5,
         "pickrate": 6.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4504f6f15cb3feaa92ecd38e01dcf751cb5abdac2e0bb52d0555727e53277502.png",
@@ -1444,7 +1444,7 @@
         "role": "DAMAGE",
         "subrole": "sharpshooter",
         "winrate": 45.9,
-        "pickrate": 9.6,
+        "pickrate": 9.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6e4702b45f196aaf51555cf57327322721f45458b17f5f0643ed008a88378259.png",
         "color": "8b3f8fff"
@@ -1454,8 +1454,8 @@
         "name": "Ana",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 46.7,
-        "pickrate": 19.1,
+        "winrate": 46.8,
+        "pickrate": 19.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/985b06beae46b7ba3ca87d1512d0fc62ca7f206ceca58ef16fc44d43a1cc84ed.png",
         "color": "48699eff"
@@ -1488,7 +1488,7 @@
         "role": "SUPPORT",
         "subrole": "survivor",
         "winrate": 52.1,
-        "pickrate": 28,
+        "pickrate": 27.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
         "color": "991344ff"
@@ -1509,8 +1509,8 @@
         "name": "Jetpack Cat",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 48.9,
-        "pickrate": 8.4,
+        "winrate": 49,
+        "pickrate": 8.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/03a184cd0de27091e0099ac22635ad9615a8f6997881a5c25cc5f2444764f729.png",
         "color": "c9cdd1ff"
@@ -1532,7 +1532,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 45.6,
-        "pickrate": 13.6,
+        "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/408603fe037e8576078eaac5eab2fb251489ced4003b11f5f522776d43d0b83d.png",
         "color": "d04656ff"
@@ -1565,7 +1565,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.2,
-        "pickrate": 18,
+        "pickrate": 18.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3bfb8bd8ec827e53d870f1238ab73d8aa1f5dbfbcfaaf7f96ffcd35b5c6102ab.png",
         "color": "faf2adff"
@@ -1587,7 +1587,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 50.9,
-        "pickrate": 18.4,
+        "pickrate": 18.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
@@ -1597,8 +1597,8 @@
         "name": "Sombra",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 52.5,
-        "pickrate": 26.8,
+        "winrate": 52.4,
+        "pickrate": 26.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
         "color": "5128a9ff"
@@ -1620,7 +1620,7 @@
         "role": "SUPPORT",
         "subrole": "tactician",
         "winrate": 54.4,
-        "pickrate": 8.3,
+        "pickrate": 8.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7d1546b1541a8afc39353f9337a408d6275a141b0432b7e560ef61579996b0fc.png",
         "color": "fcee5aff"
@@ -1631,7 +1631,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 51.7,
-        "pickrate": 6.8,
+        "pickrate": 6.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -1664,7 +1664,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 52,
-        "pickrate": 9,
+        "pickrate": 9.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ff5c54f43ad253c7faeda9c4ed31d42582ea6b19205d197866f3dd0c0aa14c16.png",
         "color": "661e0fff"
@@ -1741,7 +1741,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 47.7,
-        "pickrate": 11.9,
+        "pickrate": 11.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/89ddf07e4b619ed96169042e296a1b8856d102746f35add88284b44a9a5a6a03.png",
         "color": "ae6f1cff"
@@ -1762,7 +1762,7 @@
         "name": "Winston",
         "role": "TANK",
         "subrole": "initiator",
-        "winrate": 54.1,
+        "winrate": 54,
         "pickrate": 4.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/46a10db3aa908c590ddc4e7606376a88143d1f1306ecfbea043263040f9529a5.png",
@@ -1930,7 +1930,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 50.6,
-        "pickrate": 7.3,
+        "pickrate": 7.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/dc6ff07ac790c00dc95a40882449617bb6e0e38906b353a630cffe0c815270a9.png",
         "color": "5e001aff"
@@ -2006,7 +2006,7 @@
         "name": "Tracer",
         "role": "DAMAGE",
         "subrole": "flanker",
-        "winrate": 49.6,
+        "winrate": 49.5,
         "pickrate": 6.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4504f6f15cb3feaa92ecd38e01dcf751cb5abdac2e0bb52d0555727e53277502.png",
@@ -2040,7 +2040,7 @@
         "role": "DAMAGE",
         "subrole": "sharpshooter",
         "winrate": 45.9,
-        "pickrate": 9.6,
+        "pickrate": 9.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6e4702b45f196aaf51555cf57327322721f45458b17f5f0643ed008a88378259.png",
         "color": "8b3f8fff"
@@ -2050,8 +2050,8 @@
         "name": "Ana",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 46.7,
-        "pickrate": 19.1,
+        "winrate": 46.8,
+        "pickrate": 19.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/985b06beae46b7ba3ca87d1512d0fc62ca7f206ceca58ef16fc44d43a1cc84ed.png",
         "color": "48699eff"
@@ -2084,7 +2084,7 @@
         "role": "SUPPORT",
         "subrole": "survivor",
         "winrate": 52.1,
-        "pickrate": 28,
+        "pickrate": 27.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
         "color": "991344ff"
@@ -2105,8 +2105,8 @@
         "name": "Jetpack Cat",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 48.9,
-        "pickrate": 8.4,
+        "winrate": 49,
+        "pickrate": 8.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/03a184cd0de27091e0099ac22635ad9615a8f6997881a5c25cc5f2444764f729.png",
         "color": "c9cdd1ff"
@@ -2128,7 +2128,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 45.6,
-        "pickrate": 13.6,
+        "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/408603fe037e8576078eaac5eab2fb251489ced4003b11f5f522776d43d0b83d.png",
         "color": "d04656ff"
@@ -2161,7 +2161,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.2,
-        "pickrate": 18,
+        "pickrate": 18.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3bfb8bd8ec827e53d870f1238ab73d8aa1f5dbfbcfaaf7f96ffcd35b5c6102ab.png",
         "color": "faf2adff"
@@ -2183,7 +2183,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 50.9,
-        "pickrate": 18.4,
+        "pickrate": 18.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
@@ -2193,8 +2193,8 @@
         "name": "Sombra",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 52.5,
-        "pickrate": 26.8,
+        "winrate": 52.4,
+        "pickrate": 26.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
         "color": "5128a9ff"
@@ -2216,7 +2216,7 @@
         "role": "SUPPORT",
         "subrole": "tactician",
         "winrate": 54.4,
-        "pickrate": 8.3,
+        "pickrate": 8.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7d1546b1541a8afc39353f9337a408d6275a141b0432b7e560ef61579996b0fc.png",
         "color": "fcee5aff"
@@ -2227,7 +2227,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 51.7,
-        "pickrate": 6.8,
+        "pickrate": 6.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -2260,7 +2260,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 52,
-        "pickrate": 9,
+        "pickrate": 9.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ff5c54f43ad253c7faeda9c4ed31d42582ea6b19205d197866f3dd0c0aa14c16.png",
         "color": "661e0fff"
@@ -2337,7 +2337,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 47.7,
-        "pickrate": 11.9,
+        "pickrate": 11.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/89ddf07e4b619ed96169042e296a1b8856d102746f35add88284b44a9a5a6a03.png",
         "color": "ae6f1cff"
@@ -2358,7 +2358,7 @@
         "name": "Winston",
         "role": "TANK",
         "subrole": "initiator",
-        "winrate": 54.1,
+        "winrate": 54,
         "pickrate": 4.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/46a10db3aa908c590ddc4e7606376a88143d1f1306ecfbea043263040f9529a5.png",
@@ -2528,7 +2528,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 50.6,
-        "pickrate": 7.3,
+        "pickrate": 7.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/dc6ff07ac790c00dc95a40882449617bb6e0e38906b353a630cffe0c815270a9.png",
         "color": "5e001aff"
@@ -2604,7 +2604,7 @@
         "name": "Tracer",
         "role": "DAMAGE",
         "subrole": "flanker",
-        "winrate": 49.6,
+        "winrate": 49.5,
         "pickrate": 6.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4504f6f15cb3feaa92ecd38e01dcf751cb5abdac2e0bb52d0555727e53277502.png",
@@ -2638,7 +2638,7 @@
         "role": "DAMAGE",
         "subrole": "sharpshooter",
         "winrate": 45.9,
-        "pickrate": 9.6,
+        "pickrate": 9.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6e4702b45f196aaf51555cf57327322721f45458b17f5f0643ed008a88378259.png",
         "color": "8b3f8fff"
@@ -2648,8 +2648,8 @@
         "name": "Ana",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 46.7,
-        "pickrate": 19.1,
+        "winrate": 46.8,
+        "pickrate": 19.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/985b06beae46b7ba3ca87d1512d0fc62ca7f206ceca58ef16fc44d43a1cc84ed.png",
         "color": "48699eff"
@@ -2682,7 +2682,7 @@
         "role": "SUPPORT",
         "subrole": "survivor",
         "winrate": 52.1,
-        "pickrate": 28,
+        "pickrate": 27.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
         "color": "991344ff"
@@ -2703,8 +2703,8 @@
         "name": "Jetpack Cat",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 48.9,
-        "pickrate": 8.4,
+        "winrate": 49,
+        "pickrate": 8.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/03a184cd0de27091e0099ac22635ad9615a8f6997881a5c25cc5f2444764f729.png",
         "color": "c9cdd1ff"
@@ -2726,7 +2726,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 45.6,
-        "pickrate": 13.6,
+        "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/408603fe037e8576078eaac5eab2fb251489ced4003b11f5f522776d43d0b83d.png",
         "color": "d04656ff"
@@ -2759,7 +2759,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.2,
-        "pickrate": 18,
+        "pickrate": 18.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3bfb8bd8ec827e53d870f1238ab73d8aa1f5dbfbcfaaf7f96ffcd35b5c6102ab.png",
         "color": "faf2adff"
@@ -2781,7 +2781,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 50.9,
-        "pickrate": 18.4,
+        "pickrate": 18.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
@@ -2791,8 +2791,8 @@
         "name": "Sombra",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 52.5,
-        "pickrate": 26.8,
+        "winrate": 52.4,
+        "pickrate": 26.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
         "color": "5128a9ff"
@@ -2814,7 +2814,7 @@
         "role": "SUPPORT",
         "subrole": "tactician",
         "winrate": 54.4,
-        "pickrate": 8.3,
+        "pickrate": 8.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7d1546b1541a8afc39353f9337a408d6275a141b0432b7e560ef61579996b0fc.png",
         "color": "fcee5aff"
@@ -2825,7 +2825,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 51.7,
-        "pickrate": 6.8,
+        "pickrate": 6.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -2858,7 +2858,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 52,
-        "pickrate": 9,
+        "pickrate": 9.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ff5c54f43ad253c7faeda9c4ed31d42582ea6b19205d197866f3dd0c0aa14c16.png",
         "color": "661e0fff"
@@ -2935,7 +2935,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 47.7,
-        "pickrate": 11.9,
+        "pickrate": 11.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/89ddf07e4b619ed96169042e296a1b8856d102746f35add88284b44a9a5a6a03.png",
         "color": "ae6f1cff"
@@ -2956,7 +2956,7 @@
         "name": "Winston",
         "role": "TANK",
         "subrole": "initiator",
-        "winrate": 54.1,
+        "winrate": 54,
         "pickrate": 4.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/46a10db3aa908c590ddc4e7606376a88143d1f1306ecfbea043263040f9529a5.png",
@@ -3124,7 +3124,7 @@
         "role": "DAMAGE",
         "subrole": "flanker",
         "winrate": 50.6,
-        "pickrate": 7.3,
+        "pickrate": 7.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/dc6ff07ac790c00dc95a40882449617bb6e0e38906b353a630cffe0c815270a9.png",
         "color": "5e001aff"
@@ -3200,7 +3200,7 @@
         "name": "Tracer",
         "role": "DAMAGE",
         "subrole": "flanker",
-        "winrate": 49.6,
+        "winrate": 49.5,
         "pickrate": 6.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/4504f6f15cb3feaa92ecd38e01dcf751cb5abdac2e0bb52d0555727e53277502.png",
@@ -3234,7 +3234,7 @@
         "role": "DAMAGE",
         "subrole": "sharpshooter",
         "winrate": 45.9,
-        "pickrate": 9.6,
+        "pickrate": 9.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/6e4702b45f196aaf51555cf57327322721f45458b17f5f0643ed008a88378259.png",
         "color": "8b3f8fff"
@@ -3244,8 +3244,8 @@
         "name": "Ana",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 46.7,
-        "pickrate": 19.1,
+        "winrate": 46.8,
+        "pickrate": 19.2,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/985b06beae46b7ba3ca87d1512d0fc62ca7f206ceca58ef16fc44d43a1cc84ed.png",
         "color": "48699eff"
@@ -3278,7 +3278,7 @@
         "role": "SUPPORT",
         "subrole": "survivor",
         "winrate": 52.1,
-        "pickrate": 28,
+        "pickrate": 27.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2492a15c575c12314907d0d77501ec337b4d56796bc7f03e5dfb50d415612bae.png",
         "color": "991344ff"
@@ -3299,8 +3299,8 @@
         "name": "Jetpack Cat",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 48.9,
-        "pickrate": 8.4,
+        "winrate": 49,
+        "pickrate": 8.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/03a184cd0de27091e0099ac22635ad9615a8f6997881a5c25cc5f2444764f729.png",
         "color": "c9cdd1ff"
@@ -3322,7 +3322,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 45.6,
-        "pickrate": 13.6,
+        "pickrate": 13.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/408603fe037e8576078eaac5eab2fb251489ced4003b11f5f522776d43d0b83d.png",
         "color": "d04656ff"
@@ -3355,7 +3355,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 48.2,
-        "pickrate": 18,
+        "pickrate": 18.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/3bfb8bd8ec827e53d870f1238ab73d8aa1f5dbfbcfaaf7f96ffcd35b5c6102ab.png",
         "color": "faf2adff"
@@ -3377,7 +3377,7 @@
         "role": "SUPPORT",
         "subrole": "medic",
         "winrate": 50.9,
-        "pickrate": 18.4,
+        "pickrate": 18.5,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/f48f8485056d5d00dad195859188d23e50f7126b8b08b5646f46ef1b42f5e1de.png",
         "color": "804be5ff"
@@ -3387,8 +3387,8 @@
         "name": "Sombra",
         "role": "SUPPORT",
         "subrole": "tactician",
-        "winrate": 52.5,
-        "pickrate": 26.8,
+        "winrate": 52.4,
+        "pickrate": 26.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/47727b02a16e3bd7b2447d86ae1edf11587bc320b2aecb4f2f16a7ca4ad4e8a0.png",
         "color": "5128a9ff"
@@ -3410,7 +3410,7 @@
         "role": "SUPPORT",
         "subrole": "tactician",
         "winrate": 54.4,
-        "pickrate": 8.3,
+        "pickrate": 8.4,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/7d1546b1541a8afc39353f9337a408d6275a141b0432b7e560ef61579996b0fc.png",
         "color": "fcee5aff"
@@ -3421,7 +3421,7 @@
         "role": "TANK",
         "subrole": "stalwart",
         "winrate": 51.7,
-        "pickrate": 6.8,
+        "pickrate": 6.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/a46c60b8562fdbd0b8308396d0808f7606fba208bc67cccf3f82fe56d2c73b9d.png",
         "color": "c5382bff"
@@ -3454,7 +3454,7 @@
         "role": "TANK",
         "subrole": "initiator",
         "winrate": 52,
-        "pickrate": 9,
+        "pickrate": 9.1,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/ff5c54f43ad253c7faeda9c4ed31d42582ea6b19205d197866f3dd0c0aa14c16.png",
         "color": "661e0fff"
@@ -3531,7 +3531,7 @@
         "role": "TANK",
         "subrole": "bruiser",
         "winrate": 47.7,
-        "pickrate": 11.9,
+        "pickrate": 11.8,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/89ddf07e4b619ed96169042e296a1b8856d102746f35add88284b44a9a5a6a03.png",
         "color": "ae6f1cff"
@@ -3552,7 +3552,7 @@
         "name": "Winston",
         "role": "TANK",
         "subrole": "initiator",
-        "winrate": 54.1,
+        "winrate": 54,
         "pickrate": 4.7,
         "banrate": 0,
         "portrait": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/46a10db3aa908c590ddc4e7606376a88143d1f1306ecfbea043263040f9529a5.png",
